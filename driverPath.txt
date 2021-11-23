@@ -1,0 +1,2 @@
+Windows: 'C:\Users\dcpc\Joycelyn\junior_2\Web_scraping'
+Mac: '/Users/joycelyn/Desktop/NCNU/junior_2/Web_scraping/program/chromedriver'
